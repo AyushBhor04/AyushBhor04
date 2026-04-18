@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ayush !
 
-<!--
-**AyushBhor04/AyushBhor04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Tech (Computer Science) Aspirant  
+💻 Python (Learning Phase)  
+🚀 Aspiring AI/ML Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python (Basics, OOPs)
+- Data Structures (Learning)
+- NumPy, Pandas
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+ 
+
+---
+
+## 📈 Current Focus
+- Improving Problem Solving  
+- Building Real-World AI/ML Projects  
+- Learning Computer Vision  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: (add your link)
+- Email: (your email)
+
+---
+
+ Building consistently. Getting better every day.
