@@ -9,26 +9,15 @@
 ## 🔧 Skills
 - Python (Basics, OOPs)
 - Data Structures (Learning)
-- NumPy, Pandas
+- NumPy, Pandas etc
 - Git & GitHub
-
----
-
-## 🚀 Projects
  
-
 ---
 
 ## 📈 Current Focus
 - Improving Problem Solving  
 - Building Real-World AI/ML Projects  
 - Learning Computer Vision  
-
----
-
-## 📫 Connect with Me
-- LinkedIn: (add your link)
-- Email: (your email)
 
 ---
 
