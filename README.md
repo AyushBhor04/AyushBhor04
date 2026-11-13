@@ -68,23 +68,12 @@ I enjoy exploring how AI works under the hood and translating concepts into prac
 
 ## 🚀 Featured Projects
 
-### 1. Jarvis – Personal AI Assistant
-A Python-based personal AI assistant focused on bringing intelligent assistance and automation into everyday workflows.
-
-### 2. Tech Digest Agent
-An automated AI-powered technology news digest that fetches articles, generates AI summaries, and delivers curated updates through email.
-
-[View Repository](https://github.com/AyushBhor04/tech-digest-agent)
-
-### 3. Machine Learning
-Hands-on implementation of Machine Learning concepts, algorithms, and practical exercises through consistent coding and experimentation.
-
-[View Repository](https://github.com/AyushBhor04/100-days-of-ml)
-
-### 4. Deep Learning
-A structured 100-day learning journey covering neural networks, classification, backpropagation, and practical Deep Learning implementations.
-
-[View Repository](https://github.com/AyushBhor04/100-days-of-dl)
+| # | Project | Description | Repository |
+|:---:|---|---|---|
+| 1 | **Jarvis – Personal AI Assistant** | Python-based personal AI assistant with intelligent assistance and automation capabilities. | 🔒 Private Repository |
+| 2 | **Tech Digest Agent** | AI-powered technology news automation with article extraction, summarization and email delivery. | [View Repository](https://github.com/AyushBhor04/tech-digest-agent) |
+| 3 | **Machine Learning** | Hands-on implementation of ML concepts, algorithms and practical experiments. | [View Repository](https://github.com/AyushBhor04/100-days-of-ml) |
+| 4 | **Deep Learning** | 100-day learning journey covering neural networks, classification and practical implementations. | [View Repository](https://github.com/AyushBhor04/100-days-of-dl) |
 
 ---
 
