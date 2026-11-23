@@ -66,7 +66,7 @@ I enjoy exploring how AI works under the hood and translating concepts into prac
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Best Works 
 
 | # | Project | Description | Repository |
 |:---:|---|---|---|
